@@ -1,7 +1,38 @@
-.env
-vector_store/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Virtual environment
 venv/
 .venv/
+env/
+
+# Vector Database
+vectorstore/
+chroma_db/
+faiss_index/
+*.faiss
+*.pkl
+
+# Uploaded PDFs
 data/*.pdf
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Misc
+*.sqlite3
