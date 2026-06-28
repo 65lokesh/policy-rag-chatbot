@@ -6,7 +6,7 @@ langchain-core==0.3.61
 langchain-groq==0.3.2
 langchain-google-genai==2.0.10
 
-faiss-cpu==1.11.0.post1
+faiss-cpu==1.14.3
 sentence-transformers==4.1.0
 pypdf==5.6.0
 python-dotenv==1.1.0
