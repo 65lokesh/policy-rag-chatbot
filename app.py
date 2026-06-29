@@ -84,7 +84,7 @@ with st.sidebar:
     1. PDFs in `data/` are chunked & embedded
     2. Your question is embedded the same way
     3. MMR retrieval finds the top-5 relevant chunks
-    4. Gemini Flash answers using only those chunks
+    4. groq answers using only those chunks
     5. Sources are shown so you can verify
 
     **To reset chat:**
