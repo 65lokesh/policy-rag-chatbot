@@ -16,8 +16,6 @@ env/
 vectorstore/
 chroma_db/
 faiss_index/
-*.faiss
-*.pkl
 
 # Uploaded PDFs
 data/*.pdf
